@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2T+e+FzzhPCNXxOfCOzXZbxUcAiL3TFNOzitDEUSZE6YfSzfxTGr8UpHAOrMFv/neQZvqDAir4yFIenJOUgTtQ==",
+  "success": true,
+  "projectFilePath": "/home/suraj/Excel/Excel.csproj",
+  "expectedPackageFiles": [
+    "/home/suraj/.nuget/packages/aspose.cells/21.2.0/aspose.cells.21.2.0.nupkg.sha512",
+    "/home/suraj/.nuget/packages/csvhelper/25.0.0/csvhelper.25.0.0.nupkg.sha512",
+    "/home/suraj/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/home/suraj/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/home/suraj/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
+    "/home/suraj/.nuget/packages/system.text.encoding.codepages/4.7.0/system.text.encoding.codepages.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

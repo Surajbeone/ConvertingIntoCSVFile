@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/suraj/Excel/Excel.csproj": {}
+  },
+  "projects": {
+    "/home/suraj/Excel/Excel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/suraj/Excel/Excel.csproj",
+        "projectName": "Excel",
+        "projectPath": "/home/suraj/Excel/Excel.csproj",
+        "packagesPath": "/home/suraj/.nuget/packages/",
+        "outputPath": "/home/suraj/Excel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/suraj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Aspose.Cells": {
+              "target": "Package",
+              "version": "[21.2.0, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[25.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
