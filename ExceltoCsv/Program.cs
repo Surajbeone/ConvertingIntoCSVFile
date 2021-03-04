@@ -11,8 +11,8 @@ namespace Excel
         static void Main(string[] args)
         {
 
-            string dirPath = "/home/suraj/Documents/";
-            Aspose.Cells.Workbook workbook = new Workbook(dirPath + "ProductList.xlsx");
+            //string dirPath = "/home/suraj/Documents/";
+            Aspose.Cells.Workbook workbook = new Workbook("ProductList.xlsx");
             Aspose.Cells.Worksheet sheet = workbook.Worksheets[0];
             int row1 = sheet.Cells.Rows.Count;
             int column = sheet.Cells.Columns.Count;
